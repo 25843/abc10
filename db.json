@@ -1,0 +1,25 @@
+{
+  "socialurls": [
+    {
+      "SocialID": "07C75977-539C-4EF2-9B6F-0536886ACF75",
+      "SocialType": "8B47477E-1FAF-44F2-8228-8DD6E411B6C2",
+      "BranchID": "408573BB-FD13-45D3-91AF-0476FC697259",
+      "URL": "https://google.com",
+      "Active": true
+    },
+    {
+      "SocialID": "8E724D78-7C81-47A8-81FB-054E3F373419",
+      "SocialType": "DC23FF4C-7B68-4712-8DE3-CE8C343DABA4",
+      "BranchID": "65936EC4-A10C-4BC2-8D2C-0B3735344337",
+      "URL": "https://amazon.com",
+      "Active": true
+    },
+    {
+      "SocialID": "9B129FAC-79C0-45AF-99FE-0628D875059F",
+      "SocialType": "DB6B42A9-DD2D-4658-BFEA-5011A886A11E",
+      "BranchID": "AF5F4C67-21D4-48A0-952A-0D3B9EA26C08",
+      "URL": "https://twitter.com",
+      "Active": true
+    }
+  ]
+}
